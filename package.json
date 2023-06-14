@@ -1,5 +1,5 @@
 {
-    "name": "keueio",
+    "name": "@keueio/keueio",
     "version": "0.0.1",
     "description": "Keue IO - A simple package to publish tasks to your queue on Keue IO - https://keue.io",
     "main": "dist/index.js",
