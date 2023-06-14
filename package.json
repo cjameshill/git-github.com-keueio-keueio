@@ -1,7 +1,7 @@
 {
-    "name": "keue-io",
+    "name": "keueio",
     "version": "0.0.1",
-    "description": "",
+    "description": "Keue IO - A simple package to publish tasks to your queue on Keue IO - https://keue.io",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
     "scripts": {
