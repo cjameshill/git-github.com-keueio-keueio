@@ -1,0 +1,30 @@
+# Ignore directories
+node_modules/
+dist/
+build/
+
+# Ignore files
+.env
+.DS_Store
+npm-debug.log*
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+*.sublime-*
+*.swp
+*.swo
+
+# Ignore compiled files
+*.js
+*.js.map
+
+# Ignore TypeScript declaration files
+*.d.ts
+
+# Ignore test coverage reports
+coverage/
+
+# Ignore logs
+logs/
+*.log
